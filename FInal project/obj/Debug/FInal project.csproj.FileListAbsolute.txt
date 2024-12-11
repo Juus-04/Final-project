@@ -1,0 +1,11 @@
+D:\Project VS 22\New folder\Final Project\FInal project\bin\Debug\FInal project.exe.config
+D:\Project VS 22\New folder\Final Project\FInal project\bin\Debug\FInal project.exe
+D:\Project VS 22\New folder\Final Project\FInal project\bin\Debug\FInal project.pdb
+D:\Project VS 22\New folder\Final Project\FInal project\obj\Debug\FInal project.csproj.AssemblyReference.cache
+D:\Project VS 22\New folder\Final Project\FInal project\obj\Debug\FInal_project.Form1.resources
+D:\Project VS 22\New folder\Final Project\FInal project\obj\Debug\FInal_project.Properties.Resources.resources
+D:\Project VS 22\New folder\Final Project\FInal project\obj\Debug\FInal project.csproj.GenerateResource.cache
+D:\Project VS 22\New folder\Final Project\FInal project\obj\Debug\FInal project.csproj.CoreCompileInputs.cache
+D:\Project VS 22\New folder\Final Project\FInal project\obj\Debug\FInal project.exe
+D:\Project VS 22\New folder\Final Project\FInal project\obj\Debug\FInal project.pdb
+D:\Project VS 22\New folder\Final Project\FInal project\obj\Debug\FInal_project.Mainform.resources
